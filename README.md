@@ -1,14 +1,11 @@
-ste código é um validador de senha que ajuda o usuário a criar uma senha segura, verificando se ela:
+# Portfólio de Projetos em Python
 
-Tem 8 ou mais caracteres
+Este repositório contém uma coleção de projetos desenvolvidos com a linguagem Python. O objetivo é apresentar exemplos práticos e variados, que demonstram a aplicação de conceitos fundamentais da programação.
 
-Tem ao menos uma letra maiúscula
+Os projetos aqui disponíveis foram criados com fins educacionais e exploram desde scripts simples até estruturas um pouco mais elaboradas, sempre com foco no aprendizado e no aprimoramento contínuo.
 
-Tem ao menos uma letra minúscula
+Sinta-se à vontade para explorar os arquivos e utilizar os códigos como base para estudos ou referência.
 
-Tem ao menos um número
+---
 
-Tem ao menos um símbolo especial
-
-Se faltar algo, ele mostra exatamente o que está faltando.
 
