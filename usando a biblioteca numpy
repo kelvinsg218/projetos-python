@@ -1,0 +1,10 @@
+import numpy as np
+
+loja_virtual=['camisa','calca','tenis','jaqueta','boné','bermuda','blusa']
+kelvin=np.array([1,0,1,1,0,1,0])
+joão=np.array([0,1,0,1,1,0,1])
+
+
+np.linalg.norm(kelvin-joão)
+# A função np.linalg.norm calcula a distância entre dois vetores
+print(np.linalg.norm(kelvin-joão))
