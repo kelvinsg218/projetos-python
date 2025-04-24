@@ -1,0 +1,15 @@
+idade_maria=18
+idade_joão=21
+idade_milena=40
+
+if idade_maria > idade_joão:
+ print("maria é mais velha que joão")
+
+elif idade_joão > idade_maria: 
+ print("joão é mais velho que maria")
+
+elif idade_maria > idade_milena:
+ print("maria é mais velha que milena")
+
+else:print("maria e joão tem a mesma idade")
+     
